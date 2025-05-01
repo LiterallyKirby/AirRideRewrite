@@ -12,3 +12,4 @@
 /home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.pdb
 /home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.genruntimeconfig.cache
 /home/kirby/Programming/AirRide/obj/Debug/net9.0/ref/AirRide.dll
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.sourcelink.json
