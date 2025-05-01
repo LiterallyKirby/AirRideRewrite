@@ -1,0 +1,14 @@
+/home/kirby/Programming/AirRide/bin/Debug/net9.0/AirRide
+/home/kirby/Programming/AirRide/bin/Debug/net9.0/AirRide.deps.json
+/home/kirby/Programming/AirRide/bin/Debug/net9.0/AirRide.runtimeconfig.json
+/home/kirby/Programming/AirRide/bin/Debug/net9.0/AirRide.dll
+/home/kirby/Programming/AirRide/bin/Debug/net9.0/AirRide.pdb
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.AssemblyInfoInputs.cache
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.AssemblyInfo.cs
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.csproj.CoreCompileInputs.cache
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.dll
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/refint/AirRide.dll
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.pdb
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/AirRide.genruntimeconfig.cache
+/home/kirby/Programming/AirRide/obj/Debug/net9.0/ref/AirRide.dll
